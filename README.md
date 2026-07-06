@@ -1,4 +1,4 @@
-# HTML, CSS, Javascript and Python Projects
+# Application Development Projects
 
 ## 1. About
 
