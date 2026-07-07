@@ -22,7 +22,7 @@ These are some projects created for learning basic HTML, CSS, Javascript and Pyt
 
 ## 3. Plunker
 
-| Projects | Small projects | Link |
+| Projects | Project Tasks | Link |
 |----------|----------------|------|
 | **Quiz** | | [Try on Plunker](https://plnkr.co/plunk/KpcoMbESsiqVY229) |
 | **To-do List** | | [Try on Plunker](https://plnkr.co/edit/UsM4dpbQH7dHZY6E) |
